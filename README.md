@@ -38,7 +38,7 @@ Oferecer uma solução digital moderna para a gestão de informações e presen�
 ## 🌐 Como Acessar o Projeto
 
 Você pode visualizar a aplicação em funcionamento através do link do GitHub Pages:
-https://seu-usuario.github.io/nome-do-repositorio/
+(https://anacoletto.github.io/Convite-Virtual-de-Casamento/)
 
 ---
 
