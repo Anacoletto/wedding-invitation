@@ -38,17 +38,17 @@ Oferecer uma solução digital moderna para a gestão de informações e presen�
 ## 🌐 Como Acessar o Projeto
 
 Você pode visualizar a aplicação em funcionamento através do link do GitHub Pages:
-(https://anacoletto.github.io/Convite-Virtual-de-Casamento/)
+https://anacoletto.github.io/Convite-Virtual-de-Casamento/
 
 ---
 
 ## 🚀 Como Executar Localmente
 
 1. Clone o repositório:
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/anacoletto/nome-Convite-Virtual-de-Casamento.git
 
 2. Acesse a pasta do projeto:
-cd nome-do-repositorio
+cd Convite-Virtual-de-Casamento
 
 3. Abra o arquivo index.html no seu navegador.
 
