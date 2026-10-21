@@ -1,4 +1,4 @@
-# 💍 Convite Virtual de Casamento
+# 💍 wedding-invitation
 
 Aplicação web interativa e responsiva desenvolvida para servir como um convite virtual de casamento, facilitando a organização do evento e oferecendo uma experiência simples e intuitiva para os convidados.
 
